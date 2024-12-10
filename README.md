@@ -26,7 +26,6 @@ Welcome to my GitHub profile! I am a passionate Data Scientist and Engineer with
 
 ### Cloud & Databases:
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
-![Azure Data Factory](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=for-the-badge&logo=databricks&logoColor=white)
 
 ---
@@ -62,11 +61,8 @@ Explored patterns and trends in NYC taxi data using Pandas, NumPy, and Matplotli
 - 📫 Email: [nithyasree@example.com](mailto:nithyasree1506@gmail.com)
 - 💼 LinkedIn: [Nithyasree Kusakula](https://www.linkedin.com/in/nithyasree-kusakula-5b3a7a161/)
 
----
 
-![Nithyasree's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nithyasree&show_icons=true&theme=radical)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nithyasree&layout=compact&theme=radical)
 
 ---
 
