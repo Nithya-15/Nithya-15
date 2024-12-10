@@ -39,11 +39,15 @@ Welcome to my GitHub profile! I am a passionate Data Scientist and Engineer with
 
 ## 📈 My Projects
 
-### 1. [AIRA 1.0](https://github.com/Nithya-15/GenAI_projects/tree/main/AIRA%201.0)
+### 1. [AIRA 1.0](https://github.com/Nithya-15/GenAI_projects/blob/main/AIRA%201.0/README.md)
 Developed a RAG application, AI-powered chatbot designed to assist users in real-time.
 
-### 2. [CarCheese](https://github.com/KNQuoc/CarCheese)
+### 2. [CarCheese](https://devpost.com/software/carchees)
 AI-ATL Hackathon Project: Create Driver Distraction Detection System build with Gemini, Streamlit and Fast API.
+
+### 2. [Customer Churn Prediction](https://github.com/Nithya-15/Deep-Learning-Projects/blob/main/Bank_Customer_Churn_Prediction/app.py)
+Developed an ANN to predict customer churn in the banking sector, achieving 85% accuracy. Deployed the model using Streamlit interface.
+
 
 ### 2. [Walmart Sales Prediction](https://github.com/Nithya-15/Machine-Learning-Projects/tree/main/Walmart%20Sales%20Prediction)
 Analyzed sales patterns, holiday impacts, and economic factors using Python and SQL. Predicted sales trends with a 90% accuracy rate.
