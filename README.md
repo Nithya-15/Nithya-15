@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I am a passionate Data Scientist and Engineer with
 
 ## 🚀 About Me
 
-- 🎓 **Education**: 2nd-year Master's student in Data Science and Analytics at Georgia State University
+- 🎓 **Education**: Master's degree in Data Science and Analytics at Georgia State University
 - 💻 **Work Experience**: Former Data Engineer at Tata Consultancy Services and Data Analytics Intern at Opendoor
 - 🔍 **Interests**: Machine Learning, Deep Learning, Generative AI, and Data Visualization
 - 🌟 **Fun Fact**: I'm a trained Bharatnatyam dancer and a cooking enthusiast
